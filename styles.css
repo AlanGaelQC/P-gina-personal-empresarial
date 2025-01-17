@@ -1,0 +1,45 @@
+header{
+    text-align: center;
+    background-color: blueviolet;
+    color: azure;
+    padding: 20px;
+}
+
+.eslogan{
+    text-align: center;
+    background-color: aqua;
+}
+
+body{
+    background-color:ivory;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.proyectos{
+    color: darkgoldenrod;
+}
+
+.redes{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+footer{
+    text-align: center;
+    text-transform: uppercase;
+    color: darkgoldenrod;
+    padding: 5%;
+    margin-top: 10%;
+}
+a{
+    text-decoration: none;
+    color:crimson;
+}
+
+p{
+    color: black;
+}
+img{
+    width: 200px;
+}
